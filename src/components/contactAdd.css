@@ -1,0 +1,20 @@
+.addCard {
+  margin: 50px;
+  width: 220px;
+  height: 320px;
+  border: 1px solid black;
+}
+
+label {
+  margin: 5px;
+}
+
+.addEmail {
+  margin-bottom: 10px;
+}
+
+.addCardSpace {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

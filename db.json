@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "firstname": "Atai2",
+      "lastname": "Chynaliev",
+      "phone": "650554913333",
+      "email": "chynaliev.ae@gmail.com",
+      "id": 1
+    },
+    {
+      "firstname": "Atai",
+      "lastname": "Chynalievhz",
+      "phone": "6505549133",
+      "email": "chynaliev.ae@gmail.com",
+      "id": 2
+    },
+    {
+      "firstname": "Atai22",
+      "lastname": "Chynaliev",
+      "phone": "6505549133",
+      "email": "chynaliev.ae@gmail.com",
+      "id": 3
+    }
+  ]
+}

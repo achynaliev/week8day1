@@ -1,0 +1,12 @@
+.addCardSpace {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.Modalbody {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
